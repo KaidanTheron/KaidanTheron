@@ -3,7 +3,7 @@
 -   writing new, innovative software.
 -   AI. (super cliche, I know, but seriously.)
 -   Embracing the possibilities presented by blockchain technologies.
--   Web Dev and IoT; the internet is the frontier of software and technologies. It will only become more and more important with time.
+-   Web Dev and IoT; the internet is the frontier of software and technologies. It will only become increasingly important over time.
 
 🌱 I’m currently learning
 -   React and React Native
